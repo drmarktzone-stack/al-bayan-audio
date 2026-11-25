@@ -1,0 +1,1474 @@
+{
+  "version": "v1",
+  "base": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1",
+  "voice_ar": "ar-SA-HamedNeural",
+  "voice_en": "en-US-AndrewNeural",
+  "rate": "-8%",
+  "format": "mp3",
+  "bitrate": "48kbps mono 24kHz",
+  "note": "Narration only. Quran verses are not in these files; use the Islam Sobhi reciter button in the app.",
+  "url_pattern": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/{slug}/{scene_id}.{lang}.mp3",
+  "stories": {
+    "adam": {
+      "title_ar": "آدم عليه السلام",
+      "title_en": "Adam",
+      "scenes": [
+        {
+          "id": "khalifa",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/adam/khalifa.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/adam/khalifa.en.mp3"
+        },
+        {
+          "id": "names",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/adam/names.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/adam/names.en.mp3"
+        },
+        {
+          "id": "refusal",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/adam/refusal.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/adam/refusal.en.mp3"
+        },
+        {
+          "id": "garden",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/adam/garden.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/adam/garden.en.mp3"
+        },
+        {
+          "id": "slip",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/adam/slip.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/adam/slip.en.mp3"
+        },
+        {
+          "id": "repentance",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/adam/repentance.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/adam/repentance.en.mp3"
+        },
+        {
+          "id": "descent",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/adam/descent.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/adam/descent.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/adam/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/adam/lesson.en.mp3"
+        }
+      ]
+    },
+    "idris": {
+      "title_ar": "إدريس عليه السلام",
+      "title_en": "Idris",
+      "scenes": [
+        {
+          "id": "truthful",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/idris/truthful.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/idris/truthful.en.mp3"
+        },
+        {
+          "id": "raised",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/idris/raised.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/idris/raised.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/idris/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/idris/lesson.en.mp3"
+        }
+      ]
+    },
+    "nuh": {
+      "title_ar": "نوح عليه السلام",
+      "title_en": "Nuh (Noah)",
+      "scenes": [
+        {
+          "id": "call",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/nuh/call.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/nuh/call.en.mp3"
+        },
+        {
+          "id": "build",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/nuh/build.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/nuh/build.en.mp3"
+        },
+        {
+          "id": "flood",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/nuh/flood.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/nuh/flood.en.mp3"
+        },
+        {
+          "id": "son",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/nuh/son.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/nuh/son.en.mp3"
+        },
+        {
+          "id": "judi",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/nuh/judi.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/nuh/judi.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/nuh/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/nuh/lesson.en.mp3"
+        }
+      ]
+    },
+    "hud": {
+      "title_ar": "هود عليه السلام",
+      "title_en": "Hud",
+      "scenes": [
+        {
+          "id": "sent",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/hud/sent.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/hud/sent.en.mp3"
+        },
+        {
+          "id": "blessings",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/hud/blessings.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/hud/blessings.en.mp3"
+        },
+        {
+          "id": "denial",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/hud/denial.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/hud/denial.en.mp3"
+        },
+        {
+          "id": "cloud",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/hud/cloud.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/hud/cloud.en.mp3"
+        },
+        {
+          "id": "wind",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/hud/wind.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/hud/wind.en.mp3"
+        },
+        {
+          "id": "saved",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/hud/saved.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/hud/saved.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/hud/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/hud/lesson.en.mp3"
+        }
+      ]
+    },
+    "salih": {
+      "title_ar": "صالح عليه السلام",
+      "title_en": "Salih",
+      "scenes": [
+        {
+          "id": "sent",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/salih/sent.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/salih/sent.en.mp3"
+        },
+        {
+          "id": "camel",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/salih/camel.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/salih/camel.en.mp3"
+        },
+        {
+          "id": "hamstrung",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/salih/hamstrung.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/salih/hamstrung.en.mp3"
+        },
+        {
+          "id": "three-days",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/salih/three-days.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/salih/three-days.en.mp3"
+        },
+        {
+          "id": "blast",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/salih/blast.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/salih/blast.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/salih/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/salih/lesson.en.mp3"
+        }
+      ]
+    },
+    "ibrahim": {
+      "title_ar": "إبراهيم عليه السلام",
+      "title_en": "Ibrahim (Abraham)",
+      "scenes": [
+        {
+          "id": "stars",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ibrahim/stars.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ibrahim/stars.en.mp3"
+        },
+        {
+          "id": "idols",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ibrahim/idols.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ibrahim/idols.en.mp3"
+        },
+        {
+          "id": "fire",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ibrahim/fire.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ibrahim/fire.en.mp3"
+        },
+        {
+          "id": "guests",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ibrahim/guests.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ibrahim/guests.en.mp3"
+        },
+        {
+          "id": "house",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ibrahim/house.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ibrahim/house.en.mp3"
+        },
+        {
+          "id": "sacrifice",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ibrahim/sacrifice.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ibrahim/sacrifice.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ibrahim/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ibrahim/lesson.en.mp3"
+        }
+      ]
+    },
+    "lut": {
+      "title_ar": "لوط عليه السلام",
+      "title_en": "Lut (Lot)",
+      "scenes": [
+        {
+          "id": "people",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/lut/people.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/lut/people.en.mp3"
+        },
+        {
+          "id": "guests",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/lut/guests.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/lut/guests.en.mp3"
+        },
+        {
+          "id": "rush",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/lut/rush.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/lut/rush.en.mp3"
+        },
+        {
+          "id": "reveal",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/lut/reveal.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/lut/reveal.en.mp3"
+        },
+        {
+          "id": "leaving",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/lut/leaving.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/lut/leaving.en.mp3"
+        },
+        {
+          "id": "overturned",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/lut/overturned.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/lut/overturned.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/lut/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/lut/lesson.en.mp3"
+        }
+      ]
+    },
+    "ismail": {
+      "title_ar": "إسماعيل عليه السلام",
+      "title_en": "Ismail (Ishmael)",
+      "scenes": [
+        {
+          "id": "valley",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ismail/valley.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ismail/valley.en.mp3"
+        },
+        {
+          "id": "house",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ismail/house.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ismail/house.en.mp3"
+        },
+        {
+          "id": "messenger",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ismail/messenger.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ismail/messenger.en.mp3"
+        },
+        {
+          "id": "promise",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ismail/promise.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ismail/promise.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ismail/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ismail/lesson.en.mp3"
+        }
+      ]
+    },
+    "ishaq": {
+      "title_ar": "إسحاق عليه السلام",
+      "title_en": "Ishaq (Isaac)",
+      "scenes": [
+        {
+          "id": "tidings",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ishaq/tidings.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ishaq/tidings.en.mp3"
+        },
+        {
+          "id": "wonder",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ishaq/wonder.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ishaq/wonder.en.mp3"
+        },
+        {
+          "id": "prophet",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ishaq/prophet.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ishaq/prophet.en.mp3"
+        },
+        {
+          "id": "gift",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ishaq/gift.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ishaq/gift.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ishaq/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ishaq/lesson.en.mp3"
+        }
+      ]
+    },
+    "yaqub": {
+      "title_ar": "يعقوب عليه السلام",
+      "title_en": "Yaqub (Jacob)",
+      "scenes": [
+        {
+          "id": "bequest",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yaqub/bequest.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yaqub/bequest.en.mp3"
+        },
+        {
+          "id": "wolf",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yaqub/wolf.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yaqub/wolf.en.mp3"
+        },
+        {
+          "id": "patience",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yaqub/patience.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yaqub/patience.en.mp3"
+        },
+        {
+          "id": "grief",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yaqub/grief.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yaqub/grief.en.mp3"
+        },
+        {
+          "id": "shirt",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yaqub/shirt.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yaqub/shirt.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yaqub/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yaqub/lesson.en.mp3"
+        }
+      ]
+    },
+    "yusuf": {
+      "title_ar": "يوسف عليه السلام",
+      "title_en": "Yusuf (Joseph)",
+      "scenes": [
+        {
+          "id": "dream",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yusuf/dream.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yusuf/dream.en.mp3"
+        },
+        {
+          "id": "well",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yusuf/well.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yusuf/well.en.mp3"
+        },
+        {
+          "id": "egypt",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yusuf/egypt.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yusuf/egypt.en.mp3"
+        },
+        {
+          "id": "prison",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yusuf/prison.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yusuf/prison.en.mp3"
+        },
+        {
+          "id": "kings-dream",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yusuf/kings-dream.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yusuf/kings-dream.en.mp3"
+        },
+        {
+          "id": "reunion",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yusuf/reunion.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yusuf/reunion.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yusuf/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yusuf/lesson.en.mp3"
+        }
+      ]
+    },
+    "ayyub": {
+      "title_ar": "أيوب عليه السلام",
+      "title_en": "Ayyub (Job)",
+      "scenes": [
+        {
+          "id": "call",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ayyub/call.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ayyub/call.en.mp3"
+        },
+        {
+          "id": "spring",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ayyub/spring.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ayyub/spring.en.mp3"
+        },
+        {
+          "id": "restored",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ayyub/restored.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ayyub/restored.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ayyub/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ayyub/lesson.en.mp3"
+        }
+      ]
+    },
+    "shuayb": {
+      "title_ar": "شعيب عليه السلام",
+      "title_en": "Shu'ayb",
+      "scenes": [
+        {
+          "id": "sent",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/shuayb/sent.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/shuayb/sent.en.mp3"
+        },
+        {
+          "id": "measure",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/shuayb/measure.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/shuayb/measure.en.mp3"
+        },
+        {
+          "id": "remainder",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/shuayb/remainder.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/shuayb/remainder.en.mp3"
+        },
+        {
+          "id": "mockery",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/shuayb/mockery.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/shuayb/mockery.en.mp3"
+        },
+        {
+          "id": "punishment",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/shuayb/punishment.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/shuayb/punishment.en.mp3"
+        },
+        {
+          "id": "saved",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/shuayb/saved.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/shuayb/saved.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/shuayb/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/shuayb/lesson.en.mp3"
+        }
+      ]
+    },
+    "musa": {
+      "title_ar": "موسى وهارون عليهما السلام",
+      "title_en": "Musa & Harun (Moses & Aaron)",
+      "scenes": [
+        {
+          "id": "tyranny",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa/tyranny.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa/tyranny.en.mp3"
+        },
+        {
+          "id": "river",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa/river.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa/river.en.mp3"
+        },
+        {
+          "id": "valley",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa/valley.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa/valley.en.mp3"
+        },
+        {
+          "id": "staff",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa/staff.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa/staff.en.mp3"
+        },
+        {
+          "id": "harun",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa/harun.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa/harun.en.mp3"
+        },
+        {
+          "id": "sea",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa/sea.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa/sea.en.mp3"
+        },
+        {
+          "id": "tablets",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa/tablets.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa/tablets.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa/lesson.en.mp3"
+        }
+      ]
+    },
+    "dhul-kifl": {
+      "title_ar": "ذو الكفل عليه السلام",
+      "title_en": "Dhul-Kifl",
+      "scenes": [
+        {
+          "id": "patient",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dhul-kifl/patient.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dhul-kifl/patient.en.mp3"
+        },
+        {
+          "id": "mercy",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dhul-kifl/mercy.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dhul-kifl/mercy.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dhul-kifl/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dhul-kifl/lesson.en.mp3"
+        }
+      ]
+    },
+    "dawud": {
+      "title_ar": "داود عليه السلام",
+      "title_en": "Dawud (David)",
+      "scenes": [
+        {
+          "id": "jalut",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dawud/jalut.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dawud/jalut.en.mp3"
+        },
+        {
+          "id": "mountains",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dawud/mountains.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dawud/mountains.en.mp3"
+        },
+        {
+          "id": "armour",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dawud/armour.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dawud/armour.en.mp3"
+        },
+        {
+          "id": "field",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dawud/field.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dawud/field.en.mp3"
+        },
+        {
+          "id": "disputants",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dawud/disputants.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dawud/disputants.en.mp3"
+        },
+        {
+          "id": "kingdom",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dawud/kingdom.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dawud/kingdom.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dawud/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dawud/lesson.en.mp3"
+        }
+      ]
+    },
+    "sulayman": {
+      "title_ar": "سليمان عليه السلام",
+      "title_en": "Sulayman (Solomon)",
+      "scenes": [
+        {
+          "id": "inheritance",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sulayman/inheritance.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sulayman/inheritance.en.mp3"
+        },
+        {
+          "id": "ant",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sulayman/ant.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sulayman/ant.en.mp3"
+        },
+        {
+          "id": "hoopoe",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sulayman/hoopoe.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sulayman/hoopoe.en.mp3"
+        },
+        {
+          "id": "letter",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sulayman/letter.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sulayman/letter.en.mp3"
+        },
+        {
+          "id": "throne",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sulayman/throne.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sulayman/throne.en.mp3"
+        },
+        {
+          "id": "submission",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sulayman/submission.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sulayman/submission.en.mp3"
+        },
+        {
+          "id": "staff",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sulayman/staff.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sulayman/staff.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sulayman/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sulayman/lesson.en.mp3"
+        }
+      ]
+    },
+    "ilyas": {
+      "title_ar": "إلياس عليه السلام",
+      "title_en": "Ilyas (Elias)",
+      "scenes": [
+        {
+          "id": "messenger",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ilyas/messenger.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ilyas/messenger.en.mp3"
+        },
+        {
+          "id": "call",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ilyas/call.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ilyas/call.en.mp3"
+        },
+        {
+          "id": "denial",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ilyas/denial.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ilyas/denial.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ilyas/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ilyas/lesson.en.mp3"
+        }
+      ]
+    },
+    "al-yasa": {
+      "title_ar": "اليسع عليه السلام",
+      "title_en": "Al-Yasa' (Elisha)",
+      "scenes": [
+        {
+          "id": "preferred",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/al-yasa/preferred.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/al-yasa/preferred.en.mp3"
+        },
+        {
+          "id": "guided",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/al-yasa/guided.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/al-yasa/guided.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/al-yasa/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/al-yasa/lesson.en.mp3"
+        }
+      ]
+    },
+    "yunus": {
+      "title_ar": "يونس عليه السلام",
+      "title_en": "Yunus (Jonah)",
+      "scenes": [
+        {
+          "id": "left",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yunus/left.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yunus/left.en.mp3"
+        },
+        {
+          "id": "ship",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yunus/ship.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yunus/ship.en.mp3"
+        },
+        {
+          "id": "fish",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yunus/fish.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yunus/fish.en.mp3"
+        },
+        {
+          "id": "shore",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yunus/shore.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yunus/shore.en.mp3"
+        },
+        {
+          "id": "people",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yunus/people.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yunus/people.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yunus/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yunus/lesson.en.mp3"
+        }
+      ]
+    },
+    "zakariya": {
+      "title_ar": "زكريا عليه السلام",
+      "title_en": "Zakariya (Zechariah)",
+      "scenes": [
+        {
+          "id": "there",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/zakariya/there.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/zakariya/there.en.mp3"
+        },
+        {
+          "id": "private",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/zakariya/private.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/zakariya/private.en.mp3"
+        },
+        {
+          "id": "heir",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/zakariya/heir.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/zakariya/heir.en.mp3"
+        },
+        {
+          "id": "tidings",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/zakariya/tidings.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/zakariya/tidings.en.mp3"
+        },
+        {
+          "id": "how",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/zakariya/how.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/zakariya/how.en.mp3"
+        },
+        {
+          "id": "sign",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/zakariya/sign.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/zakariya/sign.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/zakariya/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/zakariya/lesson.en.mp3"
+        }
+      ]
+    },
+    "yahya": {
+      "title_ar": "يحيى عليه السلام",
+      "title_en": "Yahya (John)",
+      "scenes": [
+        {
+          "id": "name",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yahya/name.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yahya/name.en.mp3"
+        },
+        {
+          "id": "word",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yahya/word.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yahya/word.en.mp3"
+        },
+        {
+          "id": "book",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yahya/book.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yahya/book.en.mp3"
+        },
+        {
+          "id": "tender",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yahya/tender.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yahya/tender.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yahya/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/yahya/lesson.en.mp3"
+        }
+      ]
+    },
+    "isa": {
+      "title_ar": "عيسى عليه السلام",
+      "title_en": "Isa (Jesus)",
+      "scenes": [
+        {
+          "id": "word",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/isa/word.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/isa/word.en.mp3"
+        },
+        {
+          "id": "signs",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/isa/signs.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/isa/signs.en.mp3"
+        },
+        {
+          "id": "helpers",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/isa/helpers.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/isa/helpers.en.mp3"
+        },
+        {
+          "id": "table",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/isa/table.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/isa/table.en.mp3"
+        },
+        {
+          "id": "not-killed",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/isa/not-killed.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/isa/not-killed.en.mp3"
+        },
+        {
+          "id": "raised",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/isa/raised.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/isa/raised.en.mp3"
+        },
+        {
+          "id": "question",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/isa/question.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/isa/question.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/isa/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/isa/lesson.en.mp3"
+        }
+      ]
+    },
+    "muhammad-hijra": {
+      "title_ar": "الهجرة النبوية",
+      "title_en": "The Hijra",
+      "scenes": [
+        {
+          "id": "plot",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/muhammad-hijra/plot.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/muhammad-hijra/plot.en.mp3"
+        },
+        {
+          "id": "cave",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/muhammad-hijra/cave.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/muhammad-hijra/cave.en.mp3"
+        },
+        {
+          "id": "emigrants",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/muhammad-hijra/emigrants.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/muhammad-hijra/emigrants.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/muhammad-hijra/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/muhammad-hijra/lesson.en.mp3"
+        }
+      ]
+    },
+    "muhammad-isra": {
+      "title_ar": "الإسراء",
+      "title_en": "Al-Isra' (The Night Journey)",
+      "scenes": [
+        {
+          "id": "journey",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/muhammad-isra/journey.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/muhammad-isra/journey.en.mp3"
+        },
+        {
+          "id": "star",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/muhammad-isra/star.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/muhammad-isra/star.en.mp3"
+        },
+        {
+          "id": "sidra",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/muhammad-isra/sidra.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/muhammad-isra/sidra.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/muhammad-isra/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/muhammad-isra/lesson.en.mp3"
+        }
+      ]
+    },
+    "maryam": {
+      "title_ar": "مريم عليها السلام",
+      "title_en": "Maryam (Mary)",
+      "scenes": [
+        {
+          "id": "mihrab",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/maryam/mihrab.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/maryam/mihrab.en.mp3"
+        },
+        {
+          "id": "chosen",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/maryam/chosen.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/maryam/chosen.en.mp3"
+        },
+        {
+          "id": "tidings",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/maryam/tidings.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/maryam/tidings.en.mp3"
+        },
+        {
+          "id": "palm",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/maryam/palm.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/maryam/palm.en.mp3"
+        },
+        {
+          "id": "cradle",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/maryam/cradle.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/maryam/cradle.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/maryam/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/maryam/lesson.en.mp3"
+        }
+      ]
+    },
+    "ashab-al-kahf": {
+      "title_ar": "أصحاب الكهف",
+      "title_en": "The Companions of the Cave",
+      "scenes": [
+        {
+          "id": "youths",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-kahf/youths.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-kahf/youths.en.mp3"
+        },
+        {
+          "id": "refuge",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-kahf/refuge.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-kahf/refuge.en.mp3"
+        },
+        {
+          "id": "sun",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-kahf/sun.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-kahf/sun.en.mp3"
+        },
+        {
+          "id": "years",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-kahf/years.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-kahf/years.en.mp3"
+        },
+        {
+          "id": "number",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-kahf/number.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-kahf/number.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-kahf/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-kahf/lesson.en.mp3"
+        }
+      ]
+    },
+    "dhul-qarnayn": {
+      "title_ar": "ذو القرنين",
+      "title_en": "Dhul-Qarnayn",
+      "scenes": [
+        {
+          "id": "means",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dhul-qarnayn/means.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dhul-qarnayn/means.en.mp3"
+        },
+        {
+          "id": "west",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dhul-qarnayn/west.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dhul-qarnayn/west.en.mp3"
+        },
+        {
+          "id": "east",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dhul-qarnayn/east.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dhul-qarnayn/east.en.mp3"
+        },
+        {
+          "id": "barriers",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dhul-qarnayn/barriers.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dhul-qarnayn/barriers.en.mp3"
+        },
+        {
+          "id": "barrier",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dhul-qarnayn/barrier.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dhul-qarnayn/barrier.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dhul-qarnayn/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/dhul-qarnayn/lesson.en.mp3"
+        }
+      ]
+    },
+    "luqman": {
+      "title_ar": "لقمان",
+      "title_en": "Luqman",
+      "scenes": [
+        {
+          "id": "wisdom",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/luqman/wisdom.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/luqman/wisdom.en.mp3"
+        },
+        {
+          "id": "shirk",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/luqman/shirk.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/luqman/shirk.en.mp3"
+        },
+        {
+          "id": "parents",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/luqman/parents.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/luqman/parents.en.mp3"
+        },
+        {
+          "id": "mustard",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/luqman/mustard.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/luqman/mustard.en.mp3"
+        },
+        {
+          "id": "prayer",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/luqman/prayer.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/luqman/prayer.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/luqman/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/luqman/lesson.en.mp3"
+        }
+      ]
+    },
+    "qarun": {
+      "title_ar": "قارون",
+      "title_en": "Qarun",
+      "scenes": [
+        {
+          "id": "treasure",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/qarun/treasure.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/qarun/treasure.en.mp3"
+        },
+        {
+          "id": "counsel",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/qarun/counsel.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/qarun/counsel.en.mp3"
+        },
+        {
+          "id": "arrogance",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/qarun/arrogance.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/qarun/arrogance.en.mp3"
+        },
+        {
+          "id": "adornment",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/qarun/adornment.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/qarun/adornment.en.mp3"
+        },
+        {
+          "id": "swallowed",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/qarun/swallowed.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/qarun/swallowed.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/qarun/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/qarun/lesson.en.mp3"
+        }
+      ]
+    },
+    "talut-and-jalut": {
+      "title_ar": "طالوت وجالوت",
+      "title_en": "Talut & Jalut",
+      "scenes": [
+        {
+          "id": "request",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/talut-and-jalut/request.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/talut-and-jalut/request.en.mp3"
+        },
+        {
+          "id": "talut",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/talut-and-jalut/talut.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/talut-and-jalut/talut.en.mp3"
+        },
+        {
+          "id": "ark",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/talut-and-jalut/ark.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/talut-and-jalut/ark.en.mp3"
+        },
+        {
+          "id": "river",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/talut-and-jalut/river.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/talut-and-jalut/river.en.mp3"
+        },
+        {
+          "id": "prayer",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/talut-and-jalut/prayer.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/talut-and-jalut/prayer.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/talut-and-jalut/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/talut-and-jalut/lesson.en.mp3"
+        }
+      ]
+    },
+    "ashab-al-fil": {
+      "title_ar": "أصحاب الفيل",
+      "title_en": "The People of the Elephant",
+      "scenes": [
+        {
+          "id": "elephant",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-fil/elephant.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-fil/elephant.en.mp3"
+        },
+        {
+          "id": "birds",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-fil/birds.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-fil/birds.en.mp3"
+        },
+        {
+          "id": "stones",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-fil/stones.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-fil/stones.en.mp3"
+        },
+        {
+          "id": "end",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-fil/end.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-fil/end.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-fil/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-fil/lesson.en.mp3"
+        }
+      ]
+    },
+    "ashab-al-ukhdud": {
+      "title_ar": "أصحاب الأخدود",
+      "title_en": "The People of the Ditch",
+      "scenes": [
+        {
+          "id": "ditch",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-ukhdud/ditch.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-ukhdud/ditch.en.mp3"
+        },
+        {
+          "id": "witnesses",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-ukhdud/witnesses.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-ukhdud/witnesses.en.mp3"
+        },
+        {
+          "id": "faith",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-ukhdud/faith.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-ukhdud/faith.en.mp3"
+        },
+        {
+          "id": "warning",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-ukhdud/warning.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-ukhdud/warning.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-ukhdud/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-ukhdud/lesson.en.mp3"
+        }
+      ]
+    },
+    "sons-of-adam": {
+      "title_ar": "ابنا آدم",
+      "title_en": "The Two Sons of Adam",
+      "scenes": [
+        {
+          "id": "offering",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sons-of-adam/offering.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sons-of-adam/offering.en.mp3"
+        },
+        {
+          "id": "restraint",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sons-of-adam/restraint.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sons-of-adam/restraint.en.mp3"
+        },
+        {
+          "id": "killing",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sons-of-adam/killing.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sons-of-adam/killing.en.mp3"
+        },
+        {
+          "id": "crow",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sons-of-adam/crow.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sons-of-adam/crow.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sons-of-adam/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/sons-of-adam/lesson.en.mp3"
+        }
+      ]
+    },
+    "ashab-al-jannah": {
+      "title_ar": "أصحاب الجنة",
+      "title_en": "The Owners of the Garden",
+      "scenes": [
+        {
+          "id": "oath",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-jannah/oath.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-jannah/oath.en.mp3"
+        },
+        {
+          "id": "visitation",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-jannah/visitation.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-jannah/visitation.en.mp3"
+        },
+        {
+          "id": "whisper",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-jannah/whisper.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-jannah/whisper.en.mp3"
+        },
+        {
+          "id": "found",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-jannah/found.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-jannah/found.en.mp3"
+        },
+        {
+          "id": "moderate",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-jannah/moderate.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-jannah/moderate.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-jannah/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-jannah/lesson.en.mp3"
+        }
+      ]
+    },
+    "ashab-al-sabt": {
+      "title_ar": "أصحاب السبت",
+      "title_en": "The People of the Sabbath",
+      "scenes": [
+        {
+          "id": "town",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-sabt/town.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-sabt/town.en.mp3"
+        },
+        {
+          "id": "admonish",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-sabt/admonish.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-sabt/admonish.en.mp3"
+        },
+        {
+          "id": "saved",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-sabt/saved.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-sabt/saved.en.mp3"
+        },
+        {
+          "id": "apes",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-sabt/apes.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-sabt/apes.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-sabt/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-sabt/lesson.en.mp3"
+        }
+      ]
+    },
+    "cow-of-bani-israil": {
+      "title_ar": "بقرة بني إسرائيل",
+      "title_en": "The Cow of Bani Isra'il",
+      "scenes": [
+        {
+          "id": "command",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/cow-of-bani-israil/command.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/cow-of-bani-israil/command.en.mp3"
+        },
+        {
+          "id": "age",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/cow-of-bani-israil/age.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/cow-of-bani-israil/age.en.mp3"
+        },
+        {
+          "id": "colour",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/cow-of-bani-israil/colour.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/cow-of-bani-israil/colour.en.mp3"
+        },
+        {
+          "id": "more",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/cow-of-bani-israil/more.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/cow-of-bani-israil/more.en.mp3"
+        },
+        {
+          "id": "slain",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/cow-of-bani-israil/slain.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/cow-of-bani-israil/slain.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/cow-of-bani-israil/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/cow-of-bani-israil/lesson.en.mp3"
+        }
+      ]
+    },
+    "musa-and-khidr": {
+      "title_ar": "موسى والعبد الصالح",
+      "title_en": "Musa & the Righteous Servant",
+      "scenes": [
+        {
+          "id": "junction",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa-and-khidr/junction.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa-and-khidr/junction.en.mp3"
+        },
+        {
+          "id": "fish",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa-and-khidr/fish.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa-and-khidr/fish.en.mp3"
+        },
+        {
+          "id": "servant",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa-and-khidr/servant.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa-and-khidr/servant.en.mp3"
+        },
+        {
+          "id": "patience",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa-and-khidr/patience.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa-and-khidr/patience.en.mp3"
+        },
+        {
+          "id": "ship",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa-and-khidr/ship.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa-and-khidr/ship.en.mp3"
+        },
+        {
+          "id": "boy",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa-and-khidr/boy.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa-and-khidr/boy.en.mp3"
+        },
+        {
+          "id": "wall",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa-and-khidr/wall.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa-and-khidr/wall.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa-and-khidr/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/musa-and-khidr/lesson.en.mp3"
+        }
+      ]
+    },
+    "queen-of-sheba": {
+      "title_ar": "ملكة سبأ",
+      "title_en": "The Queen of Sheba",
+      "scenes": [
+        {
+          "id": "news",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/queen-of-sheba/news.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/queen-of-sheba/news.en.mp3"
+        },
+        {
+          "id": "letter",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/queen-of-sheba/letter.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/queen-of-sheba/letter.en.mp3"
+        },
+        {
+          "id": "council",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/queen-of-sheba/council.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/queen-of-sheba/council.en.mp3"
+        },
+        {
+          "id": "gift",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/queen-of-sheba/gift.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/queen-of-sheba/gift.en.mp3"
+        },
+        {
+          "id": "refused",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/queen-of-sheba/refused.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/queen-of-sheba/refused.en.mp3"
+        },
+        {
+          "id": "throne",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/queen-of-sheba/throne.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/queen-of-sheba/throne.en.mp3"
+        },
+        {
+          "id": "hindered",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/queen-of-sheba/hindered.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/queen-of-sheba/hindered.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/queen-of-sheba/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/queen-of-sheba/lesson.en.mp3"
+        }
+      ]
+    },
+    "ashab-al-qarya": {
+      "title_ar": "أصحاب القرية",
+      "title_en": "The People of the Town",
+      "scenes": [
+        {
+          "id": "messengers",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-qarya/messengers.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-qarya/messengers.en.mp3"
+        },
+        {
+          "id": "denial",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-qarya/denial.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-qarya/denial.en.mp3"
+        },
+        {
+          "id": "omen",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-qarya/omen.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-qarya/omen.en.mp3"
+        },
+        {
+          "id": "man",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-qarya/man.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-qarya/man.en.mp3"
+        },
+        {
+          "id": "faith",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-qarya/faith.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-qarya/faith.en.mp3"
+        },
+        {
+          "id": "paradise",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-qarya/paradise.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-qarya/paradise.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-qarya/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/ashab-al-qarya/lesson.en.mp3"
+        }
+      ]
+    },
+    "saba-and-the-dam": {
+      "title_ar": "سبأ وسيل العرم",
+      "title_en": "Saba' & the Flood of the Dam",
+      "scenes": [
+        {
+          "id": "gardens",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/saba-and-the-dam/gardens.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/saba-and-the-dam/gardens.en.mp3"
+        },
+        {
+          "id": "flood",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/saba-and-the-dam/flood.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/saba-and-the-dam/flood.en.mp3"
+        },
+        {
+          "id": "recompense",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/saba-and-the-dam/recompense.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/saba-and-the-dam/recompense.en.mp3"
+        },
+        {
+          "id": "towns",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/saba-and-the-dam/towns.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/saba-and-the-dam/towns.en.mp3"
+        },
+        {
+          "id": "dispersal",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/saba-and-the-dam/dispersal.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/saba-and-the-dam/dispersal.en.mp3"
+        },
+        {
+          "id": "lesson",
+          "ar": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/saba-and-the-dam/lesson.ar.mp3",
+          "en": "https://cdn.jsdelivr.net/gh/drmarktzone-stack/al-bayan-audio@v1/stories/saba-and-the-dam/lesson.en.mp3"
+        }
+      ]
+    }
+  },
+  "counts": {
+    "stories": 41,
+    "scenes": 242,
+    "files": 484
+  }
+}
